@@ -81,6 +81,8 @@ hyprland
 hyprpaper
 hypridle
 hyprlock
+hyprpicker
+hyprshot
 wlogout
 rofi-wayland
 swww
