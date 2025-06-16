@@ -86,7 +86,6 @@ hyprshot
 wlogout
 rofi-wayland
 swww
-cliphist
 pamixer
 brightnessctl
 playerctl
@@ -103,6 +102,8 @@ sushi
 visual-studio-code-bin
 ags-hyprpanel-git
 wezterm-git
+clipse-git
+hyprshot-gui
 ttf-maplemono-nf
 zen-browser
 zen-browser-i18n-zh-cn
