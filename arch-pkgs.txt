@@ -13,6 +13,9 @@ unrar
 cmake
 uv
 meson
+foot
+jq
+chafa
 cpio
 wireshark-qt
 mold
