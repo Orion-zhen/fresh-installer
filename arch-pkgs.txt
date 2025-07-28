@@ -43,6 +43,7 @@ tmux
 fzf
 bat
 eza
+zoxide
 tldr
 thefuck
 trash-cli
@@ -86,7 +87,6 @@ hypridle
 hyprlock
 hyprpicker
 hyprshot
-wlogout
 rofi-wayland
 swww
 pamixer
@@ -97,10 +97,6 @@ udiskie
 blueberry
 nwg-look
 orchis-theme
-nautilus
-nautilus-share
-nautilus-image-converter
-nautilus-metadata-editor
 sushi
 visual-studio-code-bin
 ags-hyprpanel-git
