@@ -105,6 +105,7 @@ wezterm-git
 clipse-git
 hyprshot-gui
 hyprls-git
+matugen-git
 ttf-maplemono-nf
 zen-browser
 zen-browser-i18n-zh-cn
