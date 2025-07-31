@@ -1,3 +1,4 @@
+aria2
 os-prober
 linux-headers
 uwsm
