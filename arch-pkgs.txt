@@ -51,6 +51,7 @@ thefuck
 trash-cli
 atuin
 starship
+tokei
 ntfs-3g
 mtpfs
 mergerfs
