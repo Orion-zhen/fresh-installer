@@ -101,6 +101,11 @@ blueberry
 nwg-look
 nwg-clipman
 orchis-theme
+niri
+mako
+waybar
+xdg-desktop-portal-gtk
+xdg-desktop-portal-gnome
 sushi
 visual-studio-code-bin
 ags-hyprpanel-git
@@ -115,3 +120,4 @@ zen-browser
 zen-browser-i18n-zh-cn
 fcitx5-skin-fluentlight-git
 fcitx5-skin-fluentdark-git
+niriswitcher
