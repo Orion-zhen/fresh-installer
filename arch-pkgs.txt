@@ -99,7 +99,6 @@ hyprpolkitagent
 udiskie
 blueberry
 nwg-look
-nwg-clipman
 orchis-theme
 niri
 mako
@@ -107,6 +106,7 @@ waybar
 xdg-desktop-portal-gtk
 xdg-desktop-portal-gnome
 sushi
+vicinae
 visual-studio-code-bin
 ags-hyprpanel-git
 wezterm-git
