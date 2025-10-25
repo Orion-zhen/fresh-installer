@@ -46,7 +46,8 @@ fzf
 bat
 eza
 zoxide
-tldr
+tealdeer
+isd
 thefuck
 trash-cli
 atuin
