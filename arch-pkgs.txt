@@ -117,8 +117,7 @@ hyprshot-gui
 hyprls-git
 matugen-git
 ttf-maplemono-nf
-zen-browser
-zen-browser-i18n-zh-cn
+zen-browser-bin
 fcitx5-skin-fluentlight-git
 fcitx5-skin-fluentdark-git
 niriswitcher
