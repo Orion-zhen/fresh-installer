@@ -101,9 +101,8 @@ udiskie
 blueberry
 nwg-look
 orchis-theme
-niri
-mako
-waybar
+niri-git
+xwayland-satellite
 xdg-desktop-portal-gtk
 xdg-desktop-portal-gnome
 sushi
