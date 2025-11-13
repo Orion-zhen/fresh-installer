@@ -119,4 +119,9 @@ ttf-maplemono-nf
 zen-browser-bin
 fcitx5-skin-fluentlight-git
 fcitx5-skin-fluentdark-git
+fcitx5-themes-candlelight
+fcitx5-pinyin-custom-pinyin-dictionary
 niriswitcher
+dms-shell-niri
+ttf-ms-win11-auto-zh_cn
+ttf-lxgw-wenkai-nerd
