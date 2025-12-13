@@ -66,7 +66,6 @@ htop
 btop
 nvtop
 fastfetch
-neovim
 python-pynvim
 luarocks
 prettier
@@ -91,7 +90,6 @@ hypridle
 hyprlock
 hyprpicker
 hyprshot
-rofi-wayland
 swww
 pamixer
 brightnessctl
@@ -105,10 +103,9 @@ niri-git
 xwayland-satellite
 xdg-desktop-portal-gtk
 xdg-desktop-portal-gnome
+neovim-git
 sushi
 vicinae
-visual-studio-code-bin
-ags-hyprpanel-git
 wezterm-git
 mission-center-git
 clipse-git
@@ -121,7 +118,6 @@ fcitx5-skin-fluentlight-git
 fcitx5-skin-fluentdark-git
 fcitx5-themes-candlelight
 fcitx5-pinyin-custom-pinyin-dictionary
-niriswitcher
 dms-shell-niri
 ttf-ms-win11-auto-zh_cn
 ttf-lxgw-wenkai-nerd
