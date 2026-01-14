@@ -1,3 +1,5 @@
+adobe-source-han-sans-cn-fonts
+adobe-source-han-serif-cn-fonts
 aria2
 os-prober
 linux-headers
