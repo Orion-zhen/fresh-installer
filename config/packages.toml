@@ -1,0 +1,273 @@
+# Fresh Installer Package Configuration
+# Packages are organized by category for easy management
+# Set enabled = false to skip a category during installation
+
+[core]
+description = "核心系统工具"
+packages = [
+    "openssh",
+    "openbsd-netcat",
+    "wget",
+    "net-tools",
+    "bind",
+    "pkgconf",
+    "unzip",
+    "7zip",
+    "unrar",
+    "cpio",
+    "os-prober",
+    "linux-headers",
+    "libnewt",
+    "inotify-tools",
+    "wireless-regdb",
+    "wireless_tools",
+    "efibootmgr",
+    "btrfs-progs",
+    "xdg-utils",
+    "nano",
+    "duf",
+    "dust",
+]
+
+[fonts]
+description = "字体"
+packages = [
+    "adobe-source-sans-fonts",
+    "adobe-source-serif-fonts",
+    "adobe-source-code-pro-fonts",
+    "adobe-source-han-sans-cn-fonts",
+    "adobe-source-han-serif-cn-fonts",
+    "ttf-hack-nerd",
+    "noto-fonts-cjk",
+    "ttf-maplemono-nf",
+    "ttf-ms-win11-auto-zh_cn",
+    "ttf-lxgw-wenkai-nerd",
+    "ttf-libertinus",
+    "otf-libertinus",
+    "ttf-dejavu",
+    "ttf-liberation-mono-nerd",
+    "terminus-font",
+]
+
+[dev]
+description = "开发工具"
+packages = [
+    "cmake",
+    "meson",
+    "mold",
+    "ccache",
+    "uv",
+    "jq",
+    "ripgrep",
+    "tokei",
+    "devtools",
+    "pacman-contrib",
+    "namcap",
+    "python-pynvim",
+    "luarocks",
+    "prettier",
+    "tree-sitter-cli",
+    "pyright",
+    "ruff",
+    "neovim-git",
+    "act",
+    "actionlint",
+    "github-cli",
+    "git-lfs",
+    "npm",
+    "pnpm",
+    "direnv",
+    "hugo",
+    "rust-src",
+    "cloudflared",
+]
+
+[shell]
+description = "Shell 增强工具"
+packages = [
+    "fish",
+    "tmux",
+    "fzf",
+    "bat",
+    "eza",
+    "zoxide",
+    "tealdeer",
+    "isd",
+    "thefuck",
+    "trash-cli",
+    "atuin",
+    "starship",
+    "wezterm-git",
+    "yazi",
+]
+
+[system]
+description = "系统工具"
+packages = [
+    "htop",
+    "btop",
+    "nvtop",
+    "fastfetch",
+    "timeshift",
+    "ntfs-3g",
+    "mtpfs",
+    "mergerfs",
+    "smartmontools",
+    "dosfstools",
+    "gvfs",
+    "gvfs-mtp",
+    "gvfs-smb",
+    "samba",
+    "logrotate",
+    "flatpak",
+    "aria2",
+    "chafa",
+    "mission-center-git",
+    "ncdu",
+    "sshfs",
+    "iwd",
+    "network-manager-applet",
+    "gnome-keyring",
+    "yt-dlp",
+]
+
+[desktop.common]
+description = "桌面环境共用包"
+packages = [
+    "hyprlock",
+    "pamixer",
+    "brightnessctl",
+    "playerctl",
+    "udiskie",
+    "blueberry",
+    "nwg-look",
+    "orchis-theme",
+    "matugen-git",
+    "clipse-git",
+    "xdg-desktop-portal-gtk",
+    "xdg-desktop-portal-gnome",
+    "xdg-desktop-portal-hyprland",
+    "flameshot",
+    "cliphist",
+    "quickshell",
+]
+
+[desktop.hyprland]
+description = "Hyprland 桌面环境"
+packages = [
+    "uwsm",
+    "hyprland",
+    "hyprpaper",
+    "hypridle",
+    "hyprpicker",
+    "hyprshot",
+    "hyprshot-gui",
+    "hyprls-git",
+    "hyprpolkitagent",
+    "swww",
+]
+
+[desktop.niri]
+description = "Niri 桌面环境"
+packages = [
+    "niri-git",
+    "xwayland-satellite",
+    "dms-shell-niri",
+]
+
+[apps]
+description = "日常应用"
+packages = [
+    "ark",
+    "okular",
+    "obsidian",
+    "localsend",
+    "bitwarden",
+    "mpv",
+    "sushi",
+    "vicinae",
+    "zen-browser-bin",
+    "wireshark-qt",
+    "firefox",
+    "firefoxpwa",
+    "nautilus",
+    "nautilus-checksums",
+    "nautilus-metadata-editor",
+    "nautilus-open-any-terminal",
+    "gwenview",
+    "gparted",
+    "mediainfo",
+]
+
+[cnapps]
+description = "国内应用"
+enabled = false
+packages = [
+    "linuxqq",
+    "wechat-appimage",
+    "wemeet-bin",
+    "wps-office-cn",
+    "wps-office-mime-cn",
+    "wps-office-mui-zh-cn",
+    "ttf-wps-fonts",
+]
+
+[remote]
+description = "远程工具"
+packages = [
+    "freerdp",
+    "remmina",
+    "krdp",
+    "tailscale",
+]
+
+[printing]
+description = "打印支持"
+packages = [
+    "cups",
+    "cups-browsed",
+    "ipp-usb",
+]
+
+[input]
+description = "输入法"
+packages = [
+    "fcitx5-im",
+    "fcitx5-chinese-addons",
+    "fcitx5-rime",
+    "fcitx5-skin-fluentlight-git",
+    "fcitx5-skin-fluentdark-git",
+    "fcitx5-themes-candlelight",
+    "fcitx5-pinyin-custom-pinyin-dictionary",
+    "fcitx5-pinyin-moegirl",
+    "fcitx5-pinyin-zhwiki",
+]
+
+[audio]
+description = "音频系统"
+packages = [
+    "alsa-firmware",
+    "alsa-oss",
+    "alsa-utils",
+    "alsa-tools",
+    "pipewire",
+    "wireplumber",
+    "pavucontrol",
+    "pipewire-alsa",
+    "pipewire-jack",
+    "pipewire-pulse",
+    "gst-plugin-pipewire",
+    "libpulse",
+    "speech-dispatcher",
+]
+
+[latex]
+description = "LaTeX 发行版"
+packages = [
+    "texlive-meta",
+    "texlive-langchinese",
+    "texlive-langenglish",
+    "texlive-langjapanese",
+    "biber",
+    "tex-fmt",
+]

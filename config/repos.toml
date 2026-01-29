@@ -1,0 +1,17 @@
+# Repository configuration for fresh-installer
+# These repositories will be automatically added to /etc/pacman.conf
+
+[[repo]]
+name = "archlinuxcn"
+siglevel = "Optional TrustAll"
+server = "https://mirrors.cernet.edu.cn/archlinuxcn/$arch"
+
+[[repo]]
+name = "arch4edu"
+siglevel = "Optional TrustAll"
+server = "https://mirrors.cernet.edu.cn/arch4edu/$arch"
+
+[[repo]]
+name = "our"
+siglevel = "Optional TrustAll"
+server = "https://orion-zhen.github.io/our/$arch"
