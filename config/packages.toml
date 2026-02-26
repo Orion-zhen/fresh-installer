@@ -99,6 +99,13 @@ packages = [
     "starship",
     "wezterm-git",
     "yazi",
+    "fortune-mod-off",
+    "fortune-mod-zh",
+    "fortune-mod-archlinux",
+    "cowsay",
+    "lolcat",
+    "asciinema",
+    "nodejs-mapscii",
 ]
 
 [system]
