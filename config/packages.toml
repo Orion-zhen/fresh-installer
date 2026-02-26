@@ -27,6 +27,7 @@ packages = [
     "nano",
     "duf",
     "dust",
+    "inetutils",
 ]
 
 [fonts]
