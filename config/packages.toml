@@ -187,7 +187,6 @@ packages = [
 description = "日常应用"
 packages = [
     "ark",
-    "okular",
     "obsidian",
     "localsend",
     "bitwarden",
@@ -202,7 +201,7 @@ packages = [
     "nautilus-checksums",
     "nautilus-metadata-editor",
     "nautilus-open-any-terminal",
-    "gwenview",
+    "phototonic",
     "gparted",
     "mediainfo",
 ]
