@@ -89,6 +89,8 @@ packages = [
     "fish",
     "tmux",
     "fzf",
+    "fd",
+    "duckdb",
     "bat",
     "eza",
     "zoxide",
