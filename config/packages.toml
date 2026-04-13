@@ -103,6 +103,8 @@ packages = [
     "wezterm-git",
     "nushell",
     "yazi",
+    "transmission-cli",
+    "xdg-desktop-portal-termfilechooser",
     "fortune-mod-off",
     "fortune-mod-zh",
     "fortune-mod-archlinux",
