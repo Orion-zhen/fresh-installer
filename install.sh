@@ -364,6 +364,8 @@ setup_dotfiles() {
         cp -rn "$HOME/.config.bak/"* "$HOME/.config/"
         rm -rf "$HOME/.config.bak"
     fi
+
+    chmod +x ~/.config/xdg-desktop-portal-termfilechooser/yazi-wrapper.sh
     
     success "Dotfiles configured."
 }
