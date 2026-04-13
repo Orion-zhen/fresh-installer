@@ -101,6 +101,7 @@ packages = [
     "atuin",
     "starship",
     "wezterm-git",
+    "nushell",
     "yazi",
     "fortune-mod-off",
     "fortune-mod-zh",
