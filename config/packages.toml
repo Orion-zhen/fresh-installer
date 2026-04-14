@@ -71,6 +71,8 @@ packages = [
     "pyright",
     "ruff",
     "neovim-git",
+    "nvim-lspconfig",
+    "yaml-language-server",
     "act",
     "actionlint",
     "github-cli",
