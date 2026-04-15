@@ -73,6 +73,8 @@ packages = [
     "neovim-git",
     "neovim-lspconfig",
     "yaml-language-server",
+    "rust-analyzer",
+    "texlab",
     "act",
     "actionlint",
     "github-cli",
