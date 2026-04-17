@@ -146,6 +146,9 @@ packages = [
     "network-manager-applet",
     "gnome-keyring",
     "yt-dlp",
+    "satty",
+    "grim",
+    "slurp",
 ]
 
 [desktop.common]
